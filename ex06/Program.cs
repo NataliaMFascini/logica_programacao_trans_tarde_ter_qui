@@ -22,6 +22,6 @@ else
 Console.WriteLine("===============");
 Console.WriteLine("Os números são iguais? " + (n1 == n2));
 Console.WriteLine("Número 1 é maior Número 2? " + (n1 > n2));
-Console.WriteLine("Número 1 é menor Número 2? " + (n1< n2));
+Console.WriteLine("Número 1 é menor Número 2? " + (n1 < n2));
 Console.WriteLine("Número 1 é maior igual Número 2? " + (n1 >= n2));
 Console.WriteLine("Número 1 é menor igual Número 2? " + (n1 <= n2));
