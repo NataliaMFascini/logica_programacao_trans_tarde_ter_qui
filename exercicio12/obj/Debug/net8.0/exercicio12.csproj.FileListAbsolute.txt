@@ -1,0 +1,15 @@
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\bin\Debug\net8.0\exercicio12.exe
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\bin\Debug\net8.0\exercicio12.deps.json
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\bin\Debug\net8.0\exercicio12.runtimeconfig.json
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\bin\Debug\net8.0\exercicio12.dll
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\bin\Debug\net8.0\exercicio12.pdb
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\obj\Debug\net8.0\exercicio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\obj\Debug\net8.0\exercicio12.AssemblyInfoInputs.cache
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\obj\Debug\net8.0\exercicio12.AssemblyInfo.cs
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\obj\Debug\net8.0\exercicio12.csproj.CoreCompileInputs.cache
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\obj\Debug\net8.0\exercicio12.sourcelink.json
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\obj\Debug\net8.0\exercicio12.dll
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\obj\Debug\net8.0\refint\exercicio12.dll
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\obj\Debug\net8.0\exercicio12.pdb
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\obj\Debug\net8.0\exercicio12.genruntimeconfig.cache
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\exercicio12\obj\Debug\net8.0\ref\exercicio12.dll

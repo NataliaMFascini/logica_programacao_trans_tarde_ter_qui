@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C4082F0-4D75-4324-8742-06AEBB3E3FD4}|exercicio14\\exercicio14.csproj|c:\\users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4082F0-4D75-4324-8742-06AEBB3E3FD4}|exercicio14\\exercicio14.csproj|solutionrelative:exercicio14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D65B92-A83E-4A11-AAD2-0765AF7DB186}|exercicio12\\exercicio12.csproj|c:\\users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D65B92-A83E-4A11-AAD2-0765AF7DB186}|exercicio12\\exercicio12.csproj|solutionrelative:exercicio12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B03CE213-3F77-4B83-835E-EEEDB561E8AB}|exercicio13\\exercicio13.csproj|c:\\users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B03CE213-3F77-4B83-835E-EEEDB561E8AB}|exercicio13\\exercicio13.csproj|solutionrelative:exercicio13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FC733F-40AD-4A95-8904-4C3CB74A0F6B}|exercicio11\\exercicio11.csproj|c:\\users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FC733F-40AD-4A95-8904-4C3CB74A0F6B}|exercicio11\\exercicio11.csproj|solutionrelative:exercicio11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0E86CF-008C-4B4C-BAC4-C1850E123385}|exercicio10\\exercicio10.csproj|c:\\users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0E86CF-008C-4B4C-BAC4-C1850E123385}|exercicio10\\exercicio10.csproj|solutionrelative:exercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DB73B0A-9E4C-4D81-AE0F-0C892573E431}|exercicio09\\exercicio09.csproj|c:\\users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DB73B0A-9E4C-4D81-AE0F-0C892573E431}|exercicio09\\exercicio09.csproj|solutionrelative:exercicio09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B326D27D-DE14-4E93-B078-0E4952949450}|exercicio08\\exercicio08.csproj|c:\\users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B326D27D-DE14-4E93-B078-0E4952949450}|exercicio08\\exercicio08.csproj|solutionrelative:exercicio08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DCC52F3-A077-4EA6-8F89-F36D0425600A}|ex07\\ex07.csproj|c:\\users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DCC52F3-A077-4EA6-8F89-F36D0425600A}|ex07\\ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,6 +60,97 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio14\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio14\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio14\\Program.cs",
+              "RelativeToolTip": "exercicio14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:06:35.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio13\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio13\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio13\\Program.cs",
+              "RelativeToolTip": "exercicio13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:05:30.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio12\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio12\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio12\\Program.cs",
+              "RelativeToolTip": "exercicio12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:58:38.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio11\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio11\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio11\\Program.cs",
+              "RelativeToolTip": "exercicio11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:52:48.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio10\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio10\\Program.cs",
+              "RelativeToolTip": "exercicio10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:48:32.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio09\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio09\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio09\\Program.cs",
+              "RelativeToolTip": "exercicio09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:41:47.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio08\\Program.cs",
+              "RelativeDocumentMoniker": "exercicio08\\Program.cs",
+              "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\exercicio08\\Program.cs",
+              "RelativeToolTip": "exercicio08\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:33:21.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex07\\Program.cs",
               "RelativeDocumentMoniker": "ex07\\Program.cs",
               "ToolTip": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex07\\Program.cs",
@@ -43,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex06\\Program.cs",
               "RelativeDocumentMoniker": "ex06\\Program.cs",
@@ -51,12 +170,11 @@
               "RelativeToolTip": "ex06\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowBgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T19:58:09.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T19:58:09.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex05\\Program.cs",
               "RelativeDocumentMoniker": "ex05\\Program.cs",
@@ -68,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\natalia.mfascini\\source\\repos\\logica_progamacao_tarde_ter_qui\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
