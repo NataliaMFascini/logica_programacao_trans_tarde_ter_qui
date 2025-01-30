@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "matando_tempo/1.0.0": {
+        "runtime": {
+          "matando_tempo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "matando_tempo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

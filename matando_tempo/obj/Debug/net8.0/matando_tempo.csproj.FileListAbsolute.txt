@@ -1,0 +1,15 @@
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\obj\Debug\net8.0\matando_tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\obj\Debug\net8.0\matando_tempo.AssemblyInfoInputs.cache
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\obj\Debug\net8.0\matando_tempo.AssemblyInfo.cs
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\obj\Debug\net8.0\matando_tempo.csproj.CoreCompileInputs.cache
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\obj\Debug\net8.0\matando_tempo.sourcelink.json
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\bin\Debug\net8.0\matando_tempo.exe
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\bin\Debug\net8.0\matando_tempo.deps.json
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\bin\Debug\net8.0\matando_tempo.runtimeconfig.json
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\bin\Debug\net8.0\matando_tempo.dll
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\bin\Debug\net8.0\matando_tempo.pdb
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\obj\Debug\net8.0\matando_tempo.dll
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\obj\Debug\net8.0\refint\matando_tempo.dll
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\obj\Debug\net8.0\matando_tempo.pdb
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\obj\Debug\net8.0\matando_tempo.genruntimeconfig.cache
+C:\Users\natalia.mfascini\source\repos\logica_progamacao_tarde_ter_qui\matando_tempo\obj\Debug\net8.0\ref\matando_tempo.dll

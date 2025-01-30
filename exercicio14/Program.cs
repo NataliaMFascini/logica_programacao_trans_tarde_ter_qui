@@ -3,7 +3,7 @@
 Console.WriteLine("Digite um número inteiro: ");
 int numero = Convert.ToInt32(Console.ReadLine());
 
-for(int limite = 1 ; limite <= numero ; limite++)
+for(int limite = 0 ; limite <= numero ; limite+=5)
 {
     Console.WriteLine(limite);
 }
